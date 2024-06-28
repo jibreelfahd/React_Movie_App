@@ -1,0 +1,9 @@
+.movie--list {
+  text-align: center;
+}
+
+.movie--list ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
